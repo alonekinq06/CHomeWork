@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\bin\Debug\net7.0\CHomework.exe
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\bin\Debug\net7.0\CHomework.deps.json
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\bin\Debug\net7.0\CHomework.runtimeconfig.json
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\bin\Debug\net7.0\CHomework.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\bin\Debug\net7.0\CHomework.pdb
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\obj\Debug\net7.0\CHomework.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\obj\Debug\net7.0\CHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\obj\Debug\net7.0\CHomework.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\obj\Debug\net7.0\CHomework.AssemblyInfo.cs
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\obj\Debug\net7.0\CHomework.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\obj\Debug\net7.0\CHomework.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\obj\Debug\net7.0\refint\CHomework.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\obj\Debug\net7.0\CHomework.pdb
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\obj\Debug\net7.0\CHomework.genruntimeconfig.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\obj\Debug\net7.0\ref\CHomework.dll
