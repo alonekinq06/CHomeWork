@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\bin\Debug\net7.0\TryCatH-Finnaly--.exe
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\bin\Debug\net7.0\TryCatH-Finnaly--.deps.json
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\bin\Debug\net7.0\TryCatH-Finnaly--.runtimeconfig.json
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\bin\Debug\net7.0\TryCatH-Finnaly--.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\bin\Debug\net7.0\TryCatH-Finnaly--.pdb
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\obj\Debug\net7.0\TryCatH-Finnaly--.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\obj\Debug\net7.0\TryCatH-Finnaly--.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\obj\Debug\net7.0\TryCatH-Finnaly--.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\obj\Debug\net7.0\TryCatH-Finnaly--.AssemblyInfo.cs
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\obj\Debug\net7.0\TryCatH-Finnaly--.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\obj\Debug\net7.0\TryCatH-Finnaly--.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\obj\Debug\net7.0\refint\TryCatH-Finnaly--.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\obj\Debug\net7.0\TryCatH-Finnaly--.pdb
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\obj\Debug\net7.0\TryCatH-Finnaly--.genruntimeconfig.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\TryCatH-Finnaly--\obj\Debug\net7.0\ref\TryCatH-Finnaly--.dll
