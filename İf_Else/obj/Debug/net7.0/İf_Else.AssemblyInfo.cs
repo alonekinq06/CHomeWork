@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("İf_Else_if_if_Ternary_if")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("İf_Else")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("İf_Else_if_if_Ternary_if")]
-[assembly: System.Reflection.AssemblyTitleAttribute("İf_Else_if_if_Ternary_if")]
+[assembly: System.Reflection.AssemblyProductAttribute("İf_Else")]
+[assembly: System.Reflection.AssemblyTitleAttribute("İf_Else")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
