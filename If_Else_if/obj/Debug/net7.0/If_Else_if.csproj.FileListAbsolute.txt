@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\bin\Debug\net7.0\If_Else_if.exe
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\bin\Debug\net7.0\If_Else_if.deps.json
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\bin\Debug\net7.0\If_Else_if.runtimeconfig.json
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\bin\Debug\net7.0\If_Else_if.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\bin\Debug\net7.0\If_Else_if.pdb
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\obj\Debug\net7.0\If_Else_if.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\obj\Debug\net7.0\If_Else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\obj\Debug\net7.0\If_Else_if.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\obj\Debug\net7.0\If_Else_if.AssemblyInfo.cs
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\obj\Debug\net7.0\If_Else_if.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\obj\Debug\net7.0\If_Else_if.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\obj\Debug\net7.0\refint\If_Else_if.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\obj\Debug\net7.0\If_Else_if.pdb
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\obj\Debug\net7.0\If_Else_if.genruntimeconfig.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\If_Else_if\obj\Debug\net7.0\ref\If_Else_if.dll
