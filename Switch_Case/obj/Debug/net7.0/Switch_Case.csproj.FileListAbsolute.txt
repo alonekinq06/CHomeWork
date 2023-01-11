@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\bin\Debug\net7.0\Switch_Case.exe
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\bin\Debug\net7.0\Switch_Case.deps.json
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\bin\Debug\net7.0\Switch_Case.runtimeconfig.json
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\bin\Debug\net7.0\Switch_Case.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\bin\Debug\net7.0\Switch_Case.pdb
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\obj\Debug\net7.0\Switch_Case.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\obj\Debug\net7.0\Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\obj\Debug\net7.0\Switch_Case.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\obj\Debug\net7.0\Switch_Case.AssemblyInfo.cs
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\obj\Debug\net7.0\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\obj\Debug\net7.0\Switch_Case.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\obj\Debug\net7.0\refint\Switch_Case.dll
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\obj\Debug\net7.0\Switch_Case.pdb
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\obj\Debug\net7.0\Switch_Case.genruntimeconfig.cache
+C:\Users\PC\Documents\VsCodeProjectFile\CHomework\Switch_Case\obj\Debug\net7.0\ref\Switch_Case.dll
